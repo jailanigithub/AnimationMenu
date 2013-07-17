@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/jailanigithub/AnimationMenu"
   s.author       = { "Jailani" => "jailaninice@gmail.com" }
   s.source       = { :git => "https://github.com/jailanigithub/AnimationMenu.git"}
-  s.source_files = 'AwesomeMenu.h,m', 'AwesomeMenuItem.h,m'
+  s.source_files = 'AwesomeMenu'
   s.frameworks = 'UIKit', 'QuartzCore'
   s.requires_arc = true
 end  
